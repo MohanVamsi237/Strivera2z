@@ -1,6 +1,6 @@
 package easy;
 import java.util.*;
-class Solution {
+class Solutionae9 {
     public int[] unionArray(int[] nums1, int[] nums2) {
         int[] A = new int[nums1.length + nums2.length];
 

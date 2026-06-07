@@ -1,6 +1,6 @@
 // Remove Duplicates from Sorted Array
 package easy;
-class Solution {
+class Solutionae4 {
     public int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;
 

@@ -1,6 +1,6 @@
 // Move Zeroes
 package easy;
-class Solution {
+class Solutionae7 {
     public void moveZeroes(int[] nums) {
         int k = 0; 
         if (nums.length < 2) {

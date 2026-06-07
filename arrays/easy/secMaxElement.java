@@ -1,6 +1,6 @@
 // second maximum element in an array
 package easy;
-class Solution {
+class Solutionae2 {
     public int secondLargest(int[] arr) {
 
         int max = Integer.MIN_VALUE;

@@ -1,6 +1,6 @@
 // Maxmimum element in an array
 package easy;
-class Solution {
+class Solutionae1 {
     public int largestElement(int[] nums) {
         int max = nums[0];
 

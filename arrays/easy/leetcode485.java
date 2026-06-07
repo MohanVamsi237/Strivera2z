@@ -1,5 +1,6 @@
+// Max Consecutive Ones
 package easy;
-class Solution {
+class Solutionae11 {
     public int findMaxConsecutiveOnes(int[] nums) {
         int count = 0;
         int max = 0;

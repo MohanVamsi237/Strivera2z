@@ -1,6 +1,6 @@
 // Rotate Array
 package easy;
-class Solution {
+class Solutionae5 {
     public void rotate(int[] nums, int k) {
         if(nums.length==1){
             return;

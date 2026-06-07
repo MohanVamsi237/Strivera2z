@@ -1,5 +1,5 @@
 package easy;
-class Solution {
+class Solutionae10 {
     public int missingNumber(int[] nums) {
         int[] f = new int[nums.length + 1];
 
