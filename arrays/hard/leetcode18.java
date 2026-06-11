@@ -1,7 +1,7 @@
 // 4Sum
 package hard;
 import java.util.*;
-class Solution {
+class Solutionah4 {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> list = new ArrayList<>();
         Arrays.sort(nums);

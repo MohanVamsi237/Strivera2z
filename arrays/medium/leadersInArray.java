@@ -1,6 +1,6 @@
 package medium;
 import java.util.*;
-class Solution {
+class Solutionam9 {
     public List<Integer> leaders(int[] nums) {
         ArrayList<Integer> list = new ArrayList<>();
 

@@ -1,5 +1,5 @@
 package hard;
-class Solution {
+class Solutionah10 {
     public long numberOfInversions(int[] nums) {
         long count = 0;
 

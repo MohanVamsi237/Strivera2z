@@ -1,6 +1,6 @@
 // sort colors
 package medium;
-class Solution {
+class Solutionam2 {
     public void sortColors(int[] nums) {
         int temp;
         for (int i=0;i<nums.length;i++){

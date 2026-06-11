@@ -1,4 +1,4 @@
-class Solution {
+class Solutionsob {
     public int[] bubbleSort(int[] nums) {
         int n = nums.length;
 

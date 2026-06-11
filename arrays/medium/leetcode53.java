@@ -1,6 +1,6 @@
 // Maximum Subarray
 package medium;
-class Solution {
+class Solutionam4 {
     public int maxSubArray(int[] nums) {
         int maxSum = Integer.MIN_VALUE;
         int currentSum = 0;

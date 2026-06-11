@@ -1,6 +1,6 @@
 // Rotate Image
 package medium;
-class Solution {
+class Solutionam12 {
     public void rotate(int[][] matrix) {
         int n = matrix.length;
 

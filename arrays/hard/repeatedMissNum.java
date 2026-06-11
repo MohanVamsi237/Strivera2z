@@ -1,6 +1,6 @@
 package hard;
 import java.util.*;
-class Solution {
+class Solutionah9 {
     public int[] findMissingRepeatingNumbers(int[] nums) {
         int[] arr = nums.clone();
         Arrays.sort(arr);

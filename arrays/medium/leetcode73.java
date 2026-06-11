@@ -1,6 +1,6 @@
 // Set Matrix Zeroes
 package medium;
-class Solution {
+class Solutionam11 {
     public void setZeroes(int[][] matrix) {
         int rows = matrix.length;
         int cols = matrix[0].length;

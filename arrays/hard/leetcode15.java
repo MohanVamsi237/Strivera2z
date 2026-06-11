@@ -1,7 +1,7 @@
 // 3Sum
 package hard;
 import java.util.*;
-class Solution {
+class Solutionah3 {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(nums);

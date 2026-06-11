@@ -1,7 +1,7 @@
 // Majority Element II
 package hard;
 import java.util.*;
-class Solution {
+class Solutionah2 {
     public List<Integer> majorityElement(int[] nums) {
         Arrays.sort(nums);
         List<Integer> list = new ArrayList<>();

@@ -1,7 +1,7 @@
 // Pascal's Triangle
 package hard;
 import java.util.*;
-class Solution {
+class Solutionah1 {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> result = new ArrayList<>();       
         for (int i = 0; i < numRows; i++) {
