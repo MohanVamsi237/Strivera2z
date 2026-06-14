@@ -1,4 +1,3 @@
-package Strings.medium;
 class Solutionsm4 {
     public int myAtoi(String s) {
 

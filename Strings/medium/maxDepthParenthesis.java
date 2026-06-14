@@ -1,4 +1,3 @@
-package Strings.medium;
 class Solutionsm2 {
     public int maxDepth(String s) {
         int depth=0;
