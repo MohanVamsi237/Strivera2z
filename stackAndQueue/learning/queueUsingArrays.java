@@ -1,5 +1,3 @@
-package stackAndQueue.learning;
-
 class ArrayQueue {
     private final int[] A;
     private int front;

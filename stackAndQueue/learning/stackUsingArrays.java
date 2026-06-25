@@ -1,5 +1,3 @@
-package stackAndQueue.learning;
-
 class ArrayStack {
     private final int[] arr;
     private int top;
